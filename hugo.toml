@@ -1,8 +1,9 @@
-baseURL = 'https://saugatp.github.io'
+baseURL = 'https://saugatp.github.io/portfolio/'
 languageCode = 'en-gb'
 title = 'Researchers musings'
 theme = 'paper'
 enableEmoji = true
+canonifyURLs = true
 
 [params]
   color = 'linen'
