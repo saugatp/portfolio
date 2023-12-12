@@ -1,0 +1,32 @@
+baseURL = 'https://saugatp.github.io'
+languageCode = 'en-gb'
+title = 'Researchers musings'
+theme = 'hugo-paper'
+enableEmoji = true
+
+[params]
+  color = 'linen'
+  twitter = 'real.gamedev'
+  github = 'saugatp'
+  instagram = 'real.saugat'
+
+  avatar = 'poudelsaugat45@gmail.com'
+  name = 'Hi! Saugat here'
+  bio = 'Welcome to my blogs. Check out my projects as well as my researches from the menu'
+
+[menu]
+  [[menu.main]]
+    identifier = "Projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 1
+  [[menu.main]]
+    identifier = "research"
+    name = "Research"
+    url = "/research/"
+    weight = 2
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
