@@ -69,7 +69,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.pages.outputs.base_url }}
+      url: https://saugatp.github.io
     runs-on: ubuntu-latest
     needs: build
     steps:
