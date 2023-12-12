@@ -1,7 +1,7 @@
 baseURL = 'https://saugatp.github.io'
 languageCode = 'en-gb'
 title = 'Researchers musings'
-theme = 'hugo-paper'
+theme = 'paper'
 enableEmoji = true
 
 [params]
