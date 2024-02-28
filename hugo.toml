@@ -1,0 +1,38 @@
+baseURL = 'https://saugatp.github.io/portfolio'
+languageCode = 'en-gb'
+title = 'Saugat Poudel'
+theme = 'paper'
+enableEmoji = true
+canonifyURLs = true
+
+[params]
+  color = 'grey'
+  twitter = 'real.gamedev'
+  github = 'saugatp'
+  instagram = 'real.saugat'
+
+  avatar = 'poudelsaugat45@gmail.com'
+  name = 'Welcome!'
+  bio = 'I am a student currently at Northumbria University. I am interested in Data analysis and research, however I also have a solid background in mobile apps development. Good to see you here 😀'
+
+[menu]
+  [[menu.main]]
+    identifier = "Projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 1
+  [[menu.main]]
+    identifier = "research"
+    name = "Research"
+    url = "/research/"
+    weight = 2
+  [[menu.main]]
+    identifier = "journal"
+    name = "Journal"
+    url = "/live"
+    weight = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
