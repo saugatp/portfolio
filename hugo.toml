@@ -6,7 +6,7 @@ enableEmoji = true
 canonifyURLs = true
 
 [params]
-  color = 'grey'
+  color = 'wheat'
   twitter = 'real.gamedev'
   github = 'saugatp'
   instagram = 'real.saugat'
