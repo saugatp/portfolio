@@ -6,15 +6,17 @@ enableEmoji = true
 canonifyURLs = true
 
 [params]
-  color = 'wheat'
+  color = 'linen'
   twitter = 'real.gamedev'
   github = 'saugatp'
   instagram = 'real.saugat'
-
-  avatar = 'poudelsaugat45@gmail.com'
+  rss = true
   name = 'Welcome!'
   bio = 'I am a student currently at Northumbria University. I am interested in Data analysis and research, however I also have a solid background in mobile apps development. Good to see you here 😀'
-
+  avatar = 'poudelsaugat45@gmail.com'
+  disablePostNavigation = true
+  monoDarkIcon = true 
+  math = true
 [menu]
   [[menu.main]]
     identifier = "Projects"
