@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blogs/obsidian.md",
-                "mode": "source",
+                "file": "content/blogs/logging.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/blogs/obsidian.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/blogs/obsidian.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/blogs/obsidian.md"
+            "file": "content/journals/Untitled.md"
           }
         }
       }
@@ -132,9 +130,11 @@
   },
   "active": "8a5979d3ee57966c",
   "lastOpenFiles": [
-    "content/blogs/long-time.md",
     "content/blogs/logging.md",
+    "content/journals/Untitled.md",
+    "content/blogs/long-time.md",
     "content/blogs/obsidian.md",
+    "content/journals",
     "content/blogs/hello.md",
     "content/blogs/personal.md",
     "Untitled.canvas",
@@ -159,7 +159,6 @@
     "themes",
     "static",
     "layouts",
-    "i18n",
-    "content/blogs"
+    "i18n"
   ]
 }
