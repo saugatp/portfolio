@@ -1,10 +1,17 @@
-+++
-title = 'Long time, no see'
-date = 2024-02-14T21:03:32Z
-draft = false
-author = 'saugat'
-tags = ['journey','updates','bots', 'blog', 'coding', 'research']
-+++
+---
+title: Long time, no see
+date: 2024-02-14T21:03:32Z
+draft: false
+author: saugat
+tags:
+  - journey
+  - updates
+  - bots
+  - blog
+  - coding
+  - research
+---
+
 Phew, that was a long gap on my blog. I just completed my 30-min run(3.4 Kms) 😅, which i will say is not much but 
 is enough to make me feel a bit fresher. In summary, here are some of the things that happened in between:
 ### 🧑🏻‍⚕️ Physical health
@@ -17,9 +24,9 @@ Completed my small 3000 words research before dissertation for my Uni and got sc
 ### 🤖 Bots and codes
 I made few telegram bots in python as a refresher and personal itches. First one is [Music downloader](https://t.me/saugatgpt_bot), and other one I'm currently working on is [Musicer](https://t.me/SpotivnBot). I know, names are weird and both bots serve same purpose of searching and downloading music, both from different websites(ofc). The first one was made with python, initially was used for connecting to OpenAI api and getting answers directly, made with the purpose of using gpt4 just for myself cheap, but later I shifted to music downloader. I used [python-telegram-bot](https://pypi.org/project/python-telegram-bot/) on the first one, while the latter one is using javascript, leveraging [telegraf](https://telegraf.js.org). Here's the code (havent included the page that fetches api for searching). For now it just gives inline options for searching music. 
 ```javascript
-const search = require('./helpers');
+const search : require('./helpers');
 
-const bot = new Telegraf('my-token')
+const bot : new Telegraf('my-token')
 
 bot.start((ctx) => ctx.reply('Welcome'))
 bot.help((ctx) => ctx.reply('Send me a sticker'))
@@ -29,7 +36,7 @@ bot.on(message('text'), async (ctx) => {
   await ctx.reply(`Hello ${ctx.state.role}`)
 })
 bot.on('inline_query', async (ctx) => {
-  const responses = await search(ctx.inlineQuery.query)
+  const responses : await search(ctx.inlineQuery.query)
   return ctx.answerInlineQuery(responses)
 })
 ```

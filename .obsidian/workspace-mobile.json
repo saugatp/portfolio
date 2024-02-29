@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "60c7efc5b0ad53be",
+        "id": "71d61186ea42cd1b",
         "type": "tabs",
         "children": [
           {
-            "id": "f2c15667efa32cbe",
+            "id": "74fee18f2247a779",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/journals/Journal.2024-02-29.md",
-                "mode": "source",
+                "mode": "preview",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -130,22 +131,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2c15667efa32cbe",
+  "active": "74fee18f2247a779",
   "lastOpenFiles": [
-    "templates/journal-{{date}}.md",
-    "content/journals/Journal.2024-02-29.md",
     "content/blogs/hello.md",
+    "content/blogs/personal.md",
+    "content/blogs/obsidian.md",
+    "content/blogs/long-time.md",
+    "content/blogs/logging.md",
+    "content/journals/Untitled.md",
+    "content/journals/Journal.2024-02-29.md",
+    "templates/journal.md",
+    "Untitled.md",
+    "content/journals/2024-02-29.md",
     "archetypes/default.md",
     "templates",
-    "content/blogs/logging.md",
-    "content/blogs/long-time.md",
-    "content/blogs/obsidian.md",
     "content/journals",
-    "content/blogs/personal.md",
     "Untitled.canvas",
     "content/README.md",
     "README.md",
-    "Untitled.md",
     "mobile-dev.jpg",
     "content/static",
     "content/blogs/static/mobile-dev.jpg",

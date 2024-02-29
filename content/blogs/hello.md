@@ -1,10 +1,14 @@
-+++
-title = 'Hello World'
-date = 2023-12-11T15:20:06Z
-draft = false
-author = 'saugat'
-tags = ['personal', 'about-me', 'blog']
-+++
+---
+title: Hello World
+date: 2023-12-11T15:20:06Z
+draft: false
+author: saugat
+tags: 
+ - personal
+ - about-me
+ - blog
+---
+
 Although it was my long term dream to write blogs, my hesitation of signing into a new environment had kept me from doing it. But now, after researching a bit on self hosting blog sites, I got into static site generators, eventually leading me to choose Hugo for my chosen platform. **Markdown** has always been my weak point, although I wanted to learn it, I never got a chance. But ***this*** blogging project, I have taken as my challenge both on learning markdown as well as blogging atleast 3-4 times a week about what I am learning. So with all these explained, _Hello World ?_
 
 ### About me

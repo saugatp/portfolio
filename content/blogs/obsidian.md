@@ -1,12 +1,16 @@
-+++
-title = 'Obsidian'
-date = 2024-02-29T13:20:06Z
-draft = false
-author = 'saugat'
-tags = ['obsidian', 'updates', 'blog', 'personal']
-+++
+---
+title: Obsidian
+date: 2024-02-29T13:20:06Z
+draft: false
+author: saugat
+tags: 
+- obsidian
+- updates
+- blog 
+- personal
+---
 
-I recently am using Obsidian for taking notes and saving my thoughts. But, I hadn't explored more into the available plugins and community support of this awesome tool. 
+I am using Obsidian starting recently for taking notes and saving my thoughts. But, I hadn't explored more into the available plugins and community support of this awesome tool. 
 ### Why obsidian
 Firstly, because it's pretty great and secondly **Git Support**. Yes, this is a game changer for me, as I do take my journals in obsidian saving in local folder and I was also trying to make a journaling app for myself that saves and shows my journal on my site. However this became pretty complex once I found that hugo doesn't support dynamic updates. 
 ### My plan

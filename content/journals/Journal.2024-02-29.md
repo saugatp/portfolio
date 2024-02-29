@@ -1,11 +1,13 @@
-+++
-title = 2024-02-29
-date = 2024-02-29T15:27:00Z
-draft = false
-author = 'saugat'
-tags = ['journal','logs']
-+++
-
+---
+tags:
+  - obsidian
+  - git
+  - journal
+title: 2024-02-29
+date: 2024-02-29T15:27:00Z
+draft: false
+author: saugat
+---
 ##### First daily journal
 Today I learned about: 
 1. Obsidian
