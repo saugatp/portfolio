@@ -2,6 +2,9 @@
 title: Portfolio
 timezone: UTC
 collections:
+  blogs:
+    title: Posts
+    output: true
   posts:
     title: Posts
     output: true
