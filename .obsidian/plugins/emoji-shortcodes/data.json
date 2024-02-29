@@ -1,0 +1,16 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":sleeping:",
+    ":bulb:",
+    ":shrug:",
+    ":running:",
+    ":clock1:",
+    ":computer:",
+    ":worried:",
+    ":warning:"
+  ]
+}
