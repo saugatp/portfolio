@@ -2,9 +2,10 @@
 title: Portfolio
 timezone: UTC
 collections:
-  blogs:
+  contents-blogs:
     title: Posts
     output: true
+    permalink: Blogs
   posts:
     title: Posts
     output: true
