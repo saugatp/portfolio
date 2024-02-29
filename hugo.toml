@@ -2,7 +2,7 @@ baseURL = 'https://saugatp.github.io/portfolio'
 languageCode = 'en-gb'
 title = 'Saugat Poudel'
 theme = 'paper'
-enableEmoji = true
+enableEmoji = false
 canonifyURLs = true
 
 [params]
@@ -17,22 +17,13 @@ canonifyURLs = true
   disablePostNavigation = true
   monoDarkIcon = true 
   math = true
+  
 [menu]
   [[menu.main]]
     identifier = "Projects"
     name = "Projects"
     url = "/projects/"
     weight = 1
-  [[menu.main]]
-    identifier = "research"
-    name = "Research"
-    url = "/research/"
-    weight = 2
-  [[menu.main]]
-    identifier = "journal"
-    name = "Journal"
-    url = "/live"
-    weight = 3
 
 [taxonomies]
 category = "categories"
