@@ -24,6 +24,6 @@
     "editor:redo",
     "editor:configure-toolbar",
     "editor:insert-table",
-    "editor:insert-mathblock"
+    "editor:insert-codeblock"
   ]
 }

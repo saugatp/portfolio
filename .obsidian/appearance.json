@@ -1,5 +1,7 @@
 {
   "accentColor": "",
   "cssTheme": "Atom",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "Menlo",
+  "textFontFamily": "Helvetica Neue"
 }
