@@ -3,7 +3,7 @@ title: Portfolio
 timezone: UTC
 collections:
   content-blogs:
-    title: Posts
+    title: Blogs
     output: true
     permalink: Blogs
   posts:
