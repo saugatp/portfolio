@@ -20,9 +20,9 @@ canonifyURLs = true
   
 [menu]
   [[menu.main]]
-    identifier = "Projects"
-    name = "Projects"
-    url = "/projects/"
+    identifier = "Journals"
+    name = "Journals"
+    url = "/journals/"
     weight = 1
 
 [taxonomies]
