@@ -1,6 +1,6 @@
 +++
 title = 2024-02-29
-date = 2024-02-29T15:27Z
+date = 2024-02-29T15:27:00Z
 draft = false
 author = 'saugat'
 tags = ['journal','logs']
