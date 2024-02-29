@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "59d51f8c937bdcbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "60c7efc5b0ad53be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2c15667efa32cbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/blogs/obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "22e668c3a49b8bbc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8a5979d3ee57966c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "76e919dda7875e2f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8acf128fc7022e12",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "671b4ff7cf9f2031",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4dfd7124b5b3e6b6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "74ebf5b04b36a114",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "content/blogs/obsidian.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e6171e9a45c9e161",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "content/blogs/obsidian.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "33c5a253890a5c73",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "content/blogs/obsidian.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8a5979d3ee57966c",
+  "lastOpenFiles": [
+    "content/blogs/long-time.md",
+    "content/blogs/logging.md",
+    "content/blogs/obsidian.md",
+    "content/blogs/hello.md",
+    "content/blogs/personal.md",
+    "Untitled.canvas",
+    "content/README.md",
+    "archetypes/default.md",
+    "README.md",
+    "Untitled.md",
+    "mobile-dev.jpg",
+    "content/static",
+    "content/blogs/static/mobile-dev.jpg",
+    "content/blogs/static",
+    "static/75de0f275636021d55b9ed4b0ee8ee28.jpg",
+    "static/university-me.jpg",
+    "static/mobile-dev.jpg",
+    "static/fitness.jpeg",
+    "layouts/README.md",
+    "i18n/README.md",
+    "hugo.toml",
+    "assets/README.md",
+    "_config.yml",
+    "themes/paper",
+    "themes",
+    "static",
+    "layouts",
+    "i18n",
+    "content/blogs"
+  ]
+}

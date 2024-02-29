@@ -1,5 +1,5 @@
 +++
-title = 'Hello World'
+title = 'Obsidian'
 date = 2024-02-29T13:20:06Z
 draft = false
 author = 'saugat'
