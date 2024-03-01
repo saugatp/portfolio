@@ -3,7 +3,6 @@ title: Obsidian
 date: 2024-02-29T13:20:06Z
 draft: false
 author: saugat
-summary: Tried obsidian for writing my blogs..
 tags: 
 - obsidian
 - updates
