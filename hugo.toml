@@ -1,12 +1,15 @@
-baseURL = 'https://saugatp.github.io/portfolio'
+baseURL = 'https://saugatp.github.io'
 languageCode = 'en-gb'
 title = 'Saugat Poudel'
+author = "Steve Francia"
+copyright = "Copyright © 2024, Saugat Poudel; all rights reserved."
+paginate = 4
 theme = 'paper'
 enableEmoji = false
 canonifyURLs = true
 
 [params]
-  color = 'linen'
+  color = 'light'
   twitter = 'real.gamedev'
   github = 'saugatp'
   instagram = 'real.saugat'
