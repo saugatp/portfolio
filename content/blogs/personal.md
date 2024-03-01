@@ -4,11 +4,12 @@ date: 2024-02-15T23:18:10Z
 draft: false
 author: saugat
 tags:
-- habit
-- discipline
-- apps
-- research
-- personal
+  - habit
+  - discipline
+  - apps
+  - research
+  - personal
+summary: Things I struggle with over and over
 ---
 
 Something I've always struggled from early days of my life is building up *habits* and *discipline*. I value **discipline** the most as something crucial, yet I'm the one struggling to follow it. For some, self help books like __"Atomic habits"__ have helped, however I've become so arrogant and immune, it's hard for me to follow those books. I've always been an overthinker and wanderer, but overthinking something so much, that I got exhausted before I start the task I was thinking about has been my most successful defense mechanism.  

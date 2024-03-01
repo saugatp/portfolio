@@ -10,6 +10,7 @@ tags:
   - blog
   - coding
   - research
+summary: Been busy with everything so couldn't update here
 ---
 
 Phew, that was a long gap on my blog. I just completed my 30-min run(3.4 Kms) 😅, which i will say is not much but 
