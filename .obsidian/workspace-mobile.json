@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/journals/Journal.2024-03-01.md",
+                "file": "content/blogs/obsidian.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/journals/Journal.2024-03-01.md",
+            "file": "content/blogs/obsidian.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/journals/Journal.2024-03-01.md",
+            "file": "content/blogs/obsidian.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -128,7 +128,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/journals/Journal.2024-03-01.md"
+            "file": "content/blogs/obsidian.md"
           }
         }
       }
@@ -147,9 +147,9 @@
   },
   "active": "673b43dacccc26fc",
   "lastOpenFiles": [
+    "content/journals/Journal.2024-03-01.md",
     "content/blogs/obsidian.md",
     "conflict-files-obsidian-git.md",
-    "content/journals/Journal.2024-03-01.md",
     "content/blogs/personal.md",
     "content/blogs/hello.md",
     "/hugo.toml",
