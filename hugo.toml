@@ -1,17 +1,12 @@
-baseURL = "https://saugatp.github.io"
-languageCode = "en-gb"
-title = "Saugat Poudel - Software Developer | Student"
-author = "Saugat Poudel"
+baseURL = 'https://saugatp.github.io'
+languageCode = 'en-gb'
+title = 'Saugat Poudel'
+author = "Steve Francia"
 copyright = "Copyright © 2024, Saugat Poudel; all rights reserved."
-description = "I'm Saugat Poudel. I share my thoughts, insights, and experiences on data analysis, research, and my journey of mobile app development in this blog. Whether you're a fellow student, tech enthusiast, or just curious, join me as we explore the fascinating intersections of technology and creativity."
 paginate = 4
 theme = 'paper'
 enableEmoji = false
 canonifyURLs = true
-
-[services]
-  [services.googleAnalytics]
-    ID = 'G-15TZEHL3PN'
 
 [params]
   color = 'light'
@@ -19,8 +14,9 @@ canonifyURLs = true
   github = 'saugatp'
   instagram = 'real.saugat'
   rss = true
-  name = "Hey there, i'm saugat."
-  bio = 'welcome to my personal blog...'
+  name = 'Welcome!'
+  bio = 'I am a student currently at Northumbria University. I am interested in Data analysis and research, however I also have a solid background in mobile apps development. Good to see you here 😀'
+  avatar = 'poudelsaugat45@gmail.com'
   disablePostNavigation = true
   monoDarkIcon = true 
   math = true
