@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0bd73069232c2b7a",
+        "id": "ca02b6437deec864",
         "type": "tabs",
         "children": [
           {
-            "id": "144c645e3a9cc3ef",
+            "id": "abfc57f7089d38e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blogs/obsidian.md",
+                "file": "content/blogs/personal.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/blogs/obsidian.md",
+            "file": "content/blogs/personal.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/blogs/obsidian.md",
+            "file": "content/blogs/personal.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/blogs/obsidian.md"
+            "file": "content/blogs/personal.md"
           }
         }
       }
@@ -132,19 +132,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "144c645e3a9cc3ef",
+  "active": "abfc57f7089d38e4",
   "lastOpenFiles": [
-    "content/journals/Journal.2024-03-01.md",
-    "content/blogs/obsidian.md",
-    "conflict-files-obsidian-git.md",
-    "content/blogs/personal.md",
-    "content/blogs/hello.md",
-    "/hugo.toml",
-    "/themes/paper",
     "content/blogs/long-time.md",
     "content/blogs/logging.md",
+    "content/blogs/hello.md",
     "content/journals/Journal.2024-02-29.md",
     "202402291713.md",
+    "content/journals/Untitled.md",
+    "content/blogs/obsidian.md",
+    "/hugo.toml",
+    "/themes/paper",
+    "content/blogs/personal.md",
     "templates/journal.md",
     "Untitled.md",
     "content/journals/2024-02-29.md",
