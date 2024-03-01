@@ -3,12 +3,14 @@ title: Obsidian
 date: 2024-02-29T13:20:06Z
 draft: false
 author: saugat
-tags:
-  - obsidian
-  - updates
-  - blog
-  - personal
-summary: Started using obsidian, learnt few tricks
+summary: Tried obsidian for writing my blogs..
+keywords:
+ - personal
+tags: 
+- obsidian
+- updates
+- blog 
+- personal
 ---
 
 I am using Obsidian starting recently for taking notes and saving my thoughts. But, I hadn't explored more into the available plugins and community support of this awesome tool. 
