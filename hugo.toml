@@ -15,7 +15,6 @@ canonifyURLs = true
 
 [params]
   color = 'light'
-  twitter = 'real.gamedev'
   github = 'saugatp'
   instagram = 'real.saugat'
   rss = true
@@ -23,7 +22,7 @@ canonifyURLs = true
   bio = 'welcome to my personal blog...'
   disablePostNavigation = true
   monoDarkIcon = true 
-  math = true
+  math = false
   
 [menu]
   [[menu.main]]
