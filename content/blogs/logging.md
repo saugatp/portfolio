@@ -11,6 +11,9 @@ tags:
   - flutter
   - firebase
 summary: I find it hard to log my daily activities and need a solution
+keywords:
+  - personal
+  - log
 ---
 
 For an overthinker like me, its all about .._thinking and ideas_ 💡. Whether it is good, bad or _ugly_, ideas are something i have learnt to generate within my __26 years of experience__. And I can call myself pretty skilled on that field as well. However, once in a blue moon, there are some really striking ideas that I want to write down or make a note of. But the problem is those ideas can strike any moment, like while sleeping, or trying to sleep, drinking coffee, listening to podcast, at the _toilet_ or while ___running___ 🏃. 
