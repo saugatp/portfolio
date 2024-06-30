@@ -10,6 +10,7 @@ keywords:
   - css
   - tailwind
   - blog
+summary: Css and tailwind for my theme
 ---
 ### Learning
 Today I just updated css for my website and made some really satisfying cosmetic changes, including fonts and colours. I am pleased with what I am able to achieve with few tailwind class. The paper theme was already pretty cool, and my changes are just my own personal preferences on top of it. Also along the way learnt few things hugo provides and got a glimpse of what are it's outputs. In case I made my own Hugo middleware that takes all of my obsidian or notion blogs and automatically builds the webpage. 

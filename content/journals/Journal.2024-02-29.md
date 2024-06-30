@@ -7,6 +7,7 @@ title: 2024-02-29
 date: 2024-02-29T15:27:00Z
 draft: false
 author: saugat
+summary: Tried obsidian...
 ---
 ##### First daily journal
 Today I learned about: 

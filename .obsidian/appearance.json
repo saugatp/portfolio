@@ -1,7 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "Atom",
-  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "theme": "system",
   "interfaceFontFamily": "Menlo",
-  "textFontFamily": "Helvetica Neue"
+  "textFontFamily": "Helvetica Neue",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ca02b6437deec864",
+        "id": "e52191b309db3405",
         "type": "tabs",
         "children": [
           {
-            "id": "abfc57f7089d38e4",
+            "id": "0f579d7509f78145",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blogs/personal.md",
+                "file": "content/blogs/100-days-of-ios.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#100days",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -74,7 +74,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "4dfd7124b5b3e6b6",
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/blogs/personal.md",
+            "file": "content/blogs/100-days-of-ios.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "content/blogs/personal.md",
+            "file": "content/blogs/100-days-of-ios.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,12 +115,20 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/blogs/personal.md"
+            "file": "content/blogs/100-days-of-ios.md"
           }
+        }
+      },
+      {
+        "id": "0d370f87bd04bd11",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -129,21 +137,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "abfc57f7089d38e4",
+  "active": "0f579d7509f78145",
   "lastOpenFiles": [
-    "content/blogs/long-time.md",
+    "content/blogs/obsidian.md",
+    "content/blogs/100-days-of-ios.md",
     "content/blogs/logging.md",
     "content/blogs/hello.md",
+    "content/journals/Journal.2024-03-02.md",
+    "content/journals/Journal.2024-03-01.md",
     "content/journals/Journal.2024-02-29.md",
-    "202402291713.md",
-    "content/journals/Untitled.md",
-    "content/blogs/obsidian.md",
     "/hugo.toml",
     "/themes/paper",
+    "content/blogs/long-time.md",
     "content/blogs/personal.md",
+    "/content/blogs/obsidian.md",
+    "/content/blogs/hello.md",
+    "conflict-files-obsidian-git.md",
+    "202402291713.md",
     "templates/journal.md",
     "Untitled.md",
     "content/journals/2024-02-29.md",
