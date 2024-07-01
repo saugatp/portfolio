@@ -1,18 +1,10 @@
----
++++
 title: 100 days of iOS development
 date: 2024-06-30T09:59:00Z
 draft: false
 author: saugat
-tags:
-  - journal
-  - logs
-  - discipline
-  - apps
-  - 100daysofios
 summary: Starting a new challenge of doing iOS development for 100 days and hopefully getting a junior position.
-keywords:
-  - iOS, 100daysofios, personal
----
++++
 ## What
 I've recently thought of doing 100 days of something to learn new thing and get a little boost for my knowledge. For that I've chosen to take the path of **iOS development**. Since I started as an android app developer, I've always been interested in iOS and wanted to make some apps for it, however was always limited by the lack of both Mac and iOS device. But now I have both of it and the interest as well, so better late than never I have decided to learn it. 
 ## How
