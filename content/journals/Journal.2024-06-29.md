@@ -6,6 +6,7 @@ author: saugat
 tags:
   - journal
   - logs
+  - 100daysofios
 keywords:
   - ios
 summary: Day 2 of iOS development learning
