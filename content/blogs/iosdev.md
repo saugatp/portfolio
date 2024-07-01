@@ -1,6 +1,6 @@
 ---
 title: 100 days of iOS development
-date: 2024-06-30T09:59:00Z
+date: 2024-06-27T09:59:00Z
 draft: false
 author: saugat
 tags:

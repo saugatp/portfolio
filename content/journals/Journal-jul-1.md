@@ -1,6 +1,6 @@
 ---
 title: IOS Day 4
-date: 2024-07-01T23:02:00Z
+date: 2024-07-01T23:14:00Z
 draft: false
 author: saugat
 tags:
@@ -11,7 +11,6 @@ keywords:
   - ios
 summary: Day 4 of iOS development learning
 ---
-
 ### Learning: API calls
 Eventually moving from the official documentation, api calls are implemented using the same json parsing from the previous example. The app now looks like it has some functionality. Even though this is a milestone, there is much more to deal with to make this app handle CRUD operation. I will have to make an API which can also accept POST requests and this app will be the frontend for it.
 
