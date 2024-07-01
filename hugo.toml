@@ -4,7 +4,7 @@ title = "Saugat Poudel - Software Developer | Student"
 author = "Saugat Poudel"
 copyright = "Copyright © 2024, Saugat Poudel; all rights reserved."
 description = "I am Saugat Poudel. I share my thoughts, insights, and experiences on data analysis, research, and my journey of mobile app development in this blog."
-paginate = 3
+paginate = 4
 theme = 'paper'
 enableEmoji = false
 canonifyURLs = true
@@ -29,7 +29,7 @@ canonifyURLs = true
     identifier = "Journals"
     name = "Journals"
     url = "/journals/"
-    weight = 2
+    weight = 1
 
 [taxonomies]
 category = "categories"
