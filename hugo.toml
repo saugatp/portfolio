@@ -29,7 +29,7 @@ canonifyURLs = true
     identifier = "Journals"
     name = "Journals"
     url = "/journals/"
-    weight = 1
+    weight = 2
 
 [taxonomies]
 category = "categories"
