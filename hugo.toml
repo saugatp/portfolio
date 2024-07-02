@@ -23,12 +23,13 @@ canonifyURLs = true
   disablePostNavigation = true
   monoDarkIcon = true 
   math = false
+  mainSections = ["blogs"]
   
 [menu]
   [[menu.main]]
     identifier = "Journals"
     name = "Journals"
-    url = "/journals/ios/"
+    url = "/journals/"
     weight = 1
   [[menu.main]]
     identifier = "Blogs"
