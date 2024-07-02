@@ -1,7 +1,7 @@
 ---
 title: IOS Day 5
 date: 2024-07-01T23:14:00Z
-draft: true
+draft: false
 author: saugat
 tags:
   - journal
