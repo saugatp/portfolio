@@ -1,6 +1,6 @@
 ---
 title: IOS Day 5
-date: 2024-07-01T23:14:00Z
+date: 2024-07-02T01:14:00Z
 draft: false
 author: saugat
 tags:
@@ -97,5 +97,5 @@ NavigationSplitView{
 ```
 
 #### Working video
-{{< video src="/RickMortyApScr.mov" controls="yes" title="Screencast of the app in question" >}}
+{{< youtube 1D4ZPPs2H3Q >}}
 
