@@ -1,6 +1,6 @@
 ---
 title: IOS Day 4
-date: 2024-06-30T23:14:00Z
+date: 2024-07-01T23:14:00Z
 draft: false
 author: saugat
 tags:

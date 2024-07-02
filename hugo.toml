@@ -1,4 +1,4 @@
-baseURL = "https://saugatp.github.io"
+baseURL = "https://saugatp.github.io/"
 languageCode = "en-gb"
 title = "Saugat Poudel - Software Developer | Student"
 author = "Saugat Poudel"
@@ -19,7 +19,7 @@ canonifyURLs = true
   instagram = 'real.saugat'
   rss = true
   name = "Hey there, i'm saugat."
-  bio = 'read my latest blogs below...'
+  bio = 'read my latest journals below...'
   disablePostNavigation = true
   monoDarkIcon = true 
   math = false
@@ -30,6 +30,12 @@ canonifyURLs = true
     name = "Journals"
     url = "/journals/"
     weight = 1
+  [[menu.main]]
+    identifier = "Blogs"
+    name = "Blogs"
+    url = "/blogs/"
+    weight = 1
+
 
 [taxonomies]
 category = "categories"
